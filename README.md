@@ -5,7 +5,6 @@ for the MCP part, i use https://github.com/spkane/freecad-addon-robust-mcp-serve
 for the LLM model i use Gemini 3.7 Flash - high;
 
 
-
 ## Oneshot Prompt
 
 my first prompt is :
@@ -20,16 +19,23 @@ power button, depth : 0.2cm, width: 1.2cm, height: 0.8cm;
 can you replicate it ?
 ```
 
-it result in /LG_AC_Remote-first-generation.FCStd file.
+the result in [LG_AC_Remote-first-generation.FCStd](/LG_AC_Remote-first-generation.FCStd) file :  
+<img width="375" height="650" alt="image" src="https://github.com/user-attachments/assets/7bb6e4d4-fdb2-4095-9a93-fe3c1903ccf2" />
+<img width="375" height="650" alt="image" src="https://github.com/user-attachments/assets/45f1b826-2790-471f-a5e8-327a766a7464" />
+<img width="375" height="650" alt="image" src="https://github.com/user-attachments/assets/b9e8ef75-2cfd-4aeb-aab2-1498e317e6ab" />
 
-well, actually that is not really my first prompt, the earlier prompt is about how to connect antigravity-cli to FreeCAD
+or you can check the stl inside [this file](exported_stl/LG_AC_Remote-first-generation.stl)
 
+well, actually that is not really my first prompt, the earlier prompt is about how to connect antigravity-cli to FreeCAD.
 
 
 ## Refined Prompt
 
-the final result is stored at LG_AC_Remote.FCStd.
-
+the final result is stored at [LG_AC_Remote.FCStd](LG_AC_Remote.FCStd) :  
+<img width="384" height="696" alt="image" src="https://github.com/user-attachments/assets/74d1359b-9658-4eb9-b831-8d15d33e920e" />
+<img width="384" height="696" alt="image" src="https://github.com/user-attachments/assets/1c07845e-a0f6-41de-9181-d3c457401118" />
+<img width="450" height="607" alt="image" src="https://github.com/user-attachments/assets/b65ad40d-f4ba-4db1-930b-9638971cd7bc" />  
+or you can check the stl inside [this file](exported_stl/LG_AC_Remote.stl)
 
 
 ## Notes
